@@ -1,0 +1,17 @@
+SYNTHETIC-DATA EVALUATION ONLY — not evidence of career suitability.
+Accuracy: 0.867
+
+                    precision    recall  f1-score   support
+
+    Data Scientist       0.78      0.88      0.82        32
+  Digital Marketer       0.82      0.84      0.83        32
+      Entrepreneur       0.90      0.88      0.89        32
+Frontend Developer       0.87      0.84      0.86        32
+  Graphic Designer       0.88      0.94      0.91        32
+ Software Engineer       0.85      0.69      0.76        32
+Teacher / Educator       0.97      0.97      0.97        32
+    UI/UX Designer       0.88      0.91      0.89        32
+
+          accuracy                           0.87       256
+         macro avg       0.87      0.87      0.87       256
+      weighted avg       0.87      0.87      0.87       256
